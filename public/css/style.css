@@ -11,3 +11,33 @@
 .footer {
   margin-top: 25px;
 }
+
+.container-fluid{
+  background-color: #6E6E6E;
+}
+
+.navbar-brand{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+  font-family: 'Passion One', cursive;
+}
+
+li{
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+
+nav{
+  color: #FFFFFF;
+}
+
+body{
+ padding-top: 70px; 
+ background-color: #E6E6E6;
+}
+
+h2{
+  font-family: 'Varela Round', sans-serif;
+}
